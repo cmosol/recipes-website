@@ -1,0 +1,73 @@
+body {
+    background-color:khaki;
+    align-content: center;
+}
+
+header {
+    background-color:white;
+    margin-bottom: 10px;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+h1{
+    font-family: 'Futura Medium';
+    float: left;
+    margin: 0px;
+    padding: 3px;
+    padding-left: 10px;
+}
+nav {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+
+
+h2{
+    font-family: 'Futura Medium';
+    
+}
+
+h3{
+    font-family: 'Futura Medium';
+}
+ol{
+    font-family: 'Futura Medium';
+}
+ul {
+    font-family: 'Futura Medium';
+    
+}
+p {
+    font-family: 'Futura Medium';
+    
+}
+img {
+    border-radius: 10px;
+    filter: drop-shadow(0 0 0.75rem black);
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+a {
+    color: black;
+    font-family: 'Futura Medium';
+}
+
+ul li{
+    list-style: none;
+    margin-top: 20px;
+    
+}
