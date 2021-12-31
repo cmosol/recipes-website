@@ -14,7 +14,7 @@ header::after {
     clear: both;
 }
 
-h1{
+h1 {
     font-family: 'Futura Medium';
     float: left;
     margin: 0px;
@@ -29,27 +29,28 @@ nav {
     padding-right: 20px;
 }
 
-
-
-h2{
-    font-family: 'Futura Medium';
-    
-}
-
-h3{
+h2 {
     font-family: 'Futura Medium';
 }
-ol{
+
+h3 {
     font-family: 'Futura Medium';
 }
+
+ol {
+    font-family: 'Futura Medium';
+}
+
 ul {
     font-family: 'Futura Medium';
     
 }
+
 p {
     font-family: 'Futura Medium';
     
 }
+
 img {
     border-radius: 10px;
     filter: drop-shadow(0 0 0.75rem black);
@@ -58,15 +59,14 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
-    
 }
+
 a {
     color: black;
     font-family: 'Futura Medium';
 }
 
-ul li{
+ul li {
     list-style: none;
     margin-top: 20px;
     
